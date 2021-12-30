@@ -1,0 +1,28 @@
+*.suo
+*.user
+*.log
+*.orig
+.vs
+.yalc
+yalc.lock
+
+[Bb]in
+[Oo]bj
+
+node_modules
+
+aws-logger-errors.txt
+
+# Webpack static assets
+coverage
+
+# OSX files to ignore. https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+.vscode
+.idea
