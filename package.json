@@ -1,5 +1,5 @@
 {
-  "name": "unit-tests",
+  "name": "@chan/unit-tests",
   "version": "0.1.0",
   "private": true,
   "publishConfig": {
